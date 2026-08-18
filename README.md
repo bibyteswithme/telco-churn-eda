@@ -34,12 +34,13 @@ Month-to-month customers churn at a dramatically higher rate than customers on 1
 ![Contract Churn vs Non-Churn](contract-vs-churn.png)
 
 ii) Churn happens early
-Half of all customers who churn do so within their first 10 months (median tenure), while customers who stay have a median tenure of 38 months.
-There's also a distinct cluster of long-tenured "loyal" customers around the 5–6 year mark, the opposite end of the risk spectrum.
+Half of all customers who churn do so within their first 10 months (median tenure), while customers who stay have a median tenure of 38 months (more than 3 years).
+There's also a solid group of long-term loyal customers who've stuck around for years (refer to the right end of histogram under non-churn), so the business has two very different types of customers,
+and they probably need different strategies to retain existing customers and to reduce churn rate.
 
 | | Count | Mean tenure | Median tenure |
 |---|---|---|---|
-| Stayed | 5,163 | 37.65 months | 38.00 months |
+| Non-Churn | 5,163 | 37.65 months | 38.00 months |
 | Churned | 1,869 | 17.98 months | 10.00 months |
 
 ![Tenure Distribution](tenure-distribution.png)
@@ -49,14 +50,22 @@ On average, customers who churn pay about $13/month more than those who stay ($7
 
 | | Mean | Median |
 |---|---|---|
-| Stayed | $61.31 | $64.45 |
+| Non-Churn | $61.31 | $64.45 |
 | Churned | $74.44 | $79.65 |
 
 ![Monthly Charges Mean vs Median](monthlycharges-mean-median.png)
 
 **5.) Recommendation**
 
-Retention efforts should prioritize new, month-to-month customers in their first year, especially those on higher-priced plans, this segment shows the highest combined risk. A targeted incentive (e.g. a discount for switching to an annual contract around month 3–6) could meaningfully reduce early churn.
+Retention efforts should prioritize two distinct groups, based on the data:
+
+i) High-risk: new, month-to-month customers in their first year, especially those on higher-priced plans, this segment shows the highest combined churn risk.
+   A targeted incentive (e.g. a discount for switching to an annual contract around month 3–6) could meaningfully reduce early churn.
+
+ii) High-value: long-tenured customers (5+ years) this loyal segment represents low churn risk but high advocacy potential. Rather than discounting (which isn't needed to retain them), 
+consider a loyalty recognition program e.g. an exclusive perk, early access to new plans/features, or a small "thank you" credit at each tenure milestone (3, 5, 7 years).
+Loyal customers are also more likely to refer others or leave positive reviews, so investing in this group can drive word-of-mouth growth, not just retention.
+
 
 *****************************************************************************************************
 
