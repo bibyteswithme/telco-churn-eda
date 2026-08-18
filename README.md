@@ -31,7 +31,7 @@ Checked for duplicate customerID rows, none found
 i) Contract type is the strongest churn signal
 Month-to-month customers churn at a dramatically higher rate than customers on 1-year or 2-year contracts. Flexibility for the customer means higher risk for the business?
 
-![Contract Churn vs Non-Churn](contract-vs-churn.png)
+![Contract Churn vs Non-Churn](contract-vs-churn_percent.png)
 
 ii) Churn happens early
 Half of all customers who churn do so within their first 10 months (median tenure), while customers who stay have a median tenure of 38 months (more than 3 years).
