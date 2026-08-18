@@ -90,7 +90,7 @@ For those who interested to replicate this Project, please follow the steps belo
 9.) End with one clear, specific recommendation, this is what separates an analysis from a report.
 
 📁 Files in This Repo
-telco-churn-eda-public.xlsx, the working Excel file (PivotTables, formulas, and charts included)
+eg-telco-churn-eda-public.xlsx, the working Excel file (PivotTables, formulas, and charts included)
 charts/ exported chart images used in this README
 
 Part of my data analyst learning journey,follow bibyteswithme for more beginner-friendly projects :-)
