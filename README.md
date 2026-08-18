@@ -31,7 +31,7 @@ Checked for duplicate customerID rows, none found
 i) Contract type is the strongest churn signal
 Month-to-month customers churn at a dramatically higher rate than customers on 1-year or 2-year contracts. Flexibility for the customer means higher risk for the business?
 
-[chart: contract-vs-churn.png]
+![Contract Churn vs Non-Churn](contract-vs-churn.png)
 
 ii) Churn happens early
 Half of all customers who churn do so within their first 10 months (median tenure), while customers who stay have a median tenure of 38 months.
@@ -42,7 +42,7 @@ There's also a distinct cluster of long-tenured "loyal" customers around the 5â€
 | Stayed | 5,163 | 37.65 months | 38.00 months |
 | Churned | 1,869 | 17.98 months | 10.00 months |
 
-[chart: tenure-distribution.png]
+![Tenure Distribution](tenure-distribution.png)
 
 iii) Churned customers pay more
 On average, customers who churn pay about $13/month more than those who stay ($74.44 vs $61.31), this indicates price sensitivity plays the role for customers already on flexible, no-commitment plans.
@@ -52,7 +52,7 @@ On average, customers who churn pay about $13/month more than those who stay ($7
 | Stayed | $61.31 | $64.45 |
 | Churned | $74.44 | $79.65 |
 
-[chart: monthlycharges-mean-median.png]
+![Monthly Charges Mean vs Median](monthlycharges-mean-median.png)
 
 **5.) Recommendation**
 
