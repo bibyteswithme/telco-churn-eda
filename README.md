@@ -93,4 +93,4 @@ For those who interested to replicate this Project, please follow the steps belo
 WA_Fn-UseC_-Telco-Customer-Churn.xlsx,the working Excel file (PivotTables, formulas, and charts included)
 charts/ exported chart images used in this README
 
-Part of my data analyst learning journey,follow along for more beginner-friendly projects :-)
+Part of my data analyst learning journey,follow bibyteswithme for more beginner-friendly projects :-)
