@@ -11,7 +11,7 @@ Why are customers churning, and what should the business do about it?
 This is the kind of open-ended question a stakeholder might actually ask,the goal of this project is to explore the data and turn it into a clear, actionable answer.
 
 **2.)  Dataset**
-- Source: Telco Customer Churn from Kaggle
+- Source: Telco Customer Churn from Kaggle - link : https://www.kaggle.com/code/farazrahman/telco-customer-churn-logisticregression
 - File: WA_Fn-UseC_-Telco-Customer-Churn.csv
 - Size: 7032 customer records (after removing rows with missing values)
 - Key columns used: tenure, MonthlyCharges, Contract, Churn
